@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Xanh nước biển -->
+    <color name="primary">#0288D1</color>
+    <color name="primary_dark">#01579B</color>
+    <color name="primary_light">#E1F5FE</color>
+    <color name="accent">#03A9F4</color>
+
+    <color name="background">#F5F9FC</color>
+    <color name="card">#FFFFFF</color>
+    <color name="text_primary">#1A2332</color>
+    <color name="text_secondary">#6B7A8D</color>
+    <color name="hint">#9AA8B8</color>
+    <color name="border">#D6E2EC</color>
+
+    <color name="error">#E53935</color>
+    <color name="error_dark">#C62828</color>
+
+    <color name="reminder_on">#0288D1</color>
+    <color name="reminder_on_bg">#E1F5FE</color>
+    <color name="reminder_off">#90A4AE</color>
+    <color name="reminder_off_bg">#ECEFF1</color>
+
+    <color name="stats_number">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

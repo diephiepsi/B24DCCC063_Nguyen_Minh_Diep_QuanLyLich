@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_ic_back.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_picker_box.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_picker_box.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_badge_off.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_badge_off.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_button_primary.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_button_primary.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/layout_activity_login.xml.flat",
+        "source": "com.example.th.app-main-33:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/layout_item_appointment.xml.flat",
+        "source": "com.example.th.app-main-33:/layout/item_appointment.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_stats_card.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_stats_card.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/layout_activity_add_appointment.xml.flat",
+        "source": "com.example.th.app-main-33:/layout/activity_add_appointment.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_header.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_card.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_badge_on.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_badge_on.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_button_outline.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_button_outline.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/layout_activity_appointment_detail.xml.flat",
+        "source": "com.example.th.app-main-33:/layout/activity_appointment_detail.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.th.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_logo_circle.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_logo_circle.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_button_danger.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_button_danger.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.th.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_bg_edittext.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/bg_edittext.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.th.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.th.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.th.app-main-33:/drawable/ic_launcher_foreground.xml"
+    }
+]
